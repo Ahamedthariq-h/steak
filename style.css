@@ -1,0 +1,26 @@
+.container{
+
+    height: 100vh;
+    width: 80%;
+    opacity: 0.8;
+    background-image: url('steakimg1.webp');
+}
+.nav{
+
+    font-weight: bold;
+    color: aliceblue;
+
+   
+}
+ul li{
+    display: inline-block;
+.nav a{
+
+    text-decoration: none;
+    color: aliceblue;
+
+}
+   
+
+
+    
